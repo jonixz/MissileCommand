@@ -37,6 +37,7 @@ namespace Assets.Scripts.Gameplay
             {
                 destroyables[i].gameObject.SetActive(true);
             }
+            destroyedDepots = 0;
         }
 
         private void OnBuildingDestroyed(Destroyable destroyable)
