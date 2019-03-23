@@ -1843,7 +1843,7 @@ GameObject:
   m_Layer: 11
   m_Name: Bounds
   m_TagString: Untagged
-  m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2048,7 +2048,7 @@ GameObject:
   m_Layer: 0
   m_Name: RocketSpawner
   m_TagString: Untagged
-  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2260,7 +2260,7 @@ GameObject:
   m_Layer: 0
   m_Name: AirplaneSpawner (1)
   m_TagString: Untagged
-  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2567,7 +2567,7 @@ GameObject:
   m_Layer: 0
   m_Name: AirplaneSpawner
   m_TagString: Untagged
-  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2614,7 +2614,7 @@ GameObject:
   m_Layer: 11
   m_Name: Bounds
   m_TagString: Untagged
-  m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2819,7 +2819,7 @@ GameObject:
   m_Layer: 11
   m_Name: Bounds
   m_TagString: Untagged
-  m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2938,7 +2938,7 @@ GameObject:
   m_Layer: 0
   m_Name: Defense
   m_TagString: Untagged
-  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3534,6 +3534,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6cda5a0be2b5f342b3267b3adb20b47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cursorTexture: {fileID: 2800000, guid: 103be699fb980a948bebf37e8d709a86, type: 3}
 --- !u!1 &1574970674
 GameObject:
   m_ObjectHideFlags: 0
@@ -4517,7 +4518,7 @@ GameObject:
   m_Layer: 11
   m_Name: Bounds
   m_TagString: Untagged
-  m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1

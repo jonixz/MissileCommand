@@ -8,11 +8,15 @@ namespace Assets.Scripts.Gameplay.Input
         public static event Action<Vector3> OnFire;
         public static event Action<Vector3> OnAim;
 
+        [SerializeField]
+        private Texture2D cursorTexture;
+
         private new UnityEngine.Camera camera;
 
         private void Awake()
         {
             camera = UnityEngine.Camera.main;
+            Cursor.SetCursor(cursorTexture, Vector2.zero, CursorMode.Auto);
         }
 
         private void Update()
